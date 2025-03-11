@@ -1,3 +1,5 @@
+//Name: Javinar, Stephanie Faith D. 
+//Course, Year, and Section: BSCS 1D
 //let i = 1  - initialization (says that it should start with 1)
 //i<=10 - condition (makes the loop keeps on running as long as the code is less than or equal to 10)
 // i++ increases i by 1 each iteration 
